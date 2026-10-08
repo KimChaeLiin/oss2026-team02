@@ -6,7 +6,7 @@
 |---|---|
 | @ bagjibin011-max | 백앤드 |
 | @KimChaeLiin | 화면 구성 |
-| @clickidev | (C가 정함) |
+| @clickidev | 테스트 |
 
 ## 규칙
 
