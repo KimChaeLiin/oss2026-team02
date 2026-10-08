@@ -4,3 +4,4 @@
 
 | GitHub | 맡은 일 |
 |---|---|
+| @KimChaeLiin | 화면 구성 |
