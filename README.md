@@ -8,7 +8,6 @@
 | @KimChaeLiin | 화면 구성 |
 | @clickidev | 테스트 |
 
-
 ## 규칙
 
 - main 에 직접 커밋하지 않는다. 모든 변경은 PR 로.
